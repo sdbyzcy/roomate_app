@@ -3,6 +3,8 @@
 RooMate, oda arkadaşlarının görevlerini paylaşmasını, sırayla tamamlamasını ve birbirini puanlamasını sağlayan bir **Flutter + Firebase** uygulamasıdır.  
 
 ##  Özellikler
+RooMate, ev/oda arkadaşlarının görev paylaşımını kolaylaştırmak için geliştirilmiş bir Flutter + Firebase uygulamasıdır. Görevler sırayla kişilere atanır, bildirimlerle takip edilir ve puanlama sistemiyle desteklenir.
+
 -  Görev ekleme, sıklık seçme ve görevlerin sırayla dönmesi  
 -  Bildirim senaryoları: yeni görev, tamamlandı, gecikme, puanlama, doğum günü, rozet  
 -  Çoklu oda desteği (her kullanıcı aktif odasında görev yönetir)  
