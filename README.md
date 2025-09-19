@@ -16,7 +16,22 @@ RooMate, oda arkadaşlarının görevlerini paylaşmasını, sırayla tamamlamas
 - Responsive design (MediaQuery, LayoutBuilder, screenutil)
 
 ## 📷 Ekran Görüntüleri
-)*  
 
+**Giriş Ekranı**  
+![Giriş](giris.jpg)
+
+**Ana Sayfa**  
+![Ana Sayfa](anasayfa1.jpg)
+
+**Görev Ekleme**  
+![Görev Ekle](gorev_ekle.jpg)
+
+**Görevlerim**  
+![Görevlerim](gorevlerim.jpg)
+
+**Odalarım**  
+![Odalarım](odalarim.jpg)
+
+➡️ Daha fazla ekran görüntüsü için repodaki diğer görsellere göz atabilirsiniz.
 ## 📌 Not
 Bu repo vitrin amaçlıdır. Kodlar private tutulmaktadır. Talep halinde iş görüşmelerinde erişim sağlanabilir.
